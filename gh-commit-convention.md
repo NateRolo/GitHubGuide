@@ -40,7 +40,7 @@ Defines what part of the codebase the change affects. Examples:
 
 ### **3. Subject** (Short summary of the change)
 - Use **imperative mood** (e.g., "Add login form" instead of "Added login form").
-- **Capitalize** the first word.
+- Write in full **lowercase**.
 - **No period** at the end.
 
 ### **4. Body** (Detailed explanation, optional)
